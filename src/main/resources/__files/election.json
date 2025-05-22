@@ -1,0 +1,36 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/ca/election/EVT123456/CUST001"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "EventID": "EVT123456",
+        "SEDOL": "B1YW440",
+        "StockName": "ABC Corporation",
+        "CAType": "Dividend",
+        "CADeadline": "2025-05-20T17:00:00Z",
+        "Date1": "2025-05-18",
+        "Date2": "2025-05-22",
+        "StockID": "STK987654",
+        "PositionSize": 10000,
+        "CustomerId": "CUST001",
+        "CustomerName": "Global Investment Ltd",
+        "BusinessLine": "Wealth Management",
+        "EntitledPosition": 9800,
+        "ResponseType": "Accept",
+        "ResponseDetail": "Full Participation",
+        "ElectionStatus": "Submitted",
+        "BookingStatus": "Booked",
+        "PostingStatus": "Posted",
+        "TraderComment": "Customer opted for cash dividend",
+        "LastSeenOrUpdatedBy": "trader_john",
+        "LastAction": "Confirmed Participation"
+      }
+    ]
+
+  }
+
+}
