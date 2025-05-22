@@ -17,7 +17,7 @@ public class WireMockConfig {
                         WireMockConfiguration.
                                 options()
                                 .port(8082)
-                                .usingFilesUnderClasspath("BOOT-INF/classes/mappings")
+                                .usingFilesUnderClasspath("BOOT-INF/classes")
                 );
     }
 }
