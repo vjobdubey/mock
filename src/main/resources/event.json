@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/ca/event2/123"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "id": 123,
+      "name": "CA Event"
+    }
+  }
+
+}
