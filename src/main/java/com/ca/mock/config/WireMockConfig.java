@@ -14,6 +14,6 @@ public class WireMockConfig {
                         WireMockConfiguration.
                                 options()
                                 .port(8082)
-                                .usingFilesUnderClasspath("src\\main\\resources"));
+                                .usingFilesUnderClasspath("."));
     }
 }
