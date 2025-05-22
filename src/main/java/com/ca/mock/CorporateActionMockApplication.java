@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CorporateActionMockApplication {
 	WireMockServer mockServer;
 	public static void main(String[] args) {
+		//Comment out the below line to disable the mock server
 		SpringApplication.run(CorporateActionMockApplication.class, args);
 
 	}
