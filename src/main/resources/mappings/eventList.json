@@ -13,7 +13,11 @@
         "CAType": "Dividend",
         "CADeadline": "2025-05-20T17:00:00Z",
         "Date1": "2025-05-18",
-        "Date2": "2025-05-22"
+        "Date2": "2025-05-22",
+        "PositionSize": "50000",
+        "EntitledPosition": "25000",
+        "ElectionQuantity": "15000",
+        "ElectionPrice": "$180.5"
       },
       {
         "EventID": "EVT123457",
@@ -22,7 +26,11 @@
         "CAType": "Rights Issue",
         "CADeadline": "2025-05-25T15:00:00Z",
         "Date1": "2025-05-23",
-        "Date2": "2025-05-28"
+        "Date2": "2025-05-28",
+        "PositionSize": "17000",
+        "EntitledPosition": "16000",
+        "ElectionQuantity": "12000",
+        "ElectionPrice": "$120.5"
       },
       {
         "EventID": "EVT123458",
@@ -31,7 +39,11 @@
         "CAType": "Merger",
         "CADeadline": "2025-05-30T14:00:00Z",
         "Date1": "2025-05-29",
-        "Date2": "2025-06-02"
+        "Date2": "2025-06-02",
+        "PositionSize": "12000",
+        "EntitledPosition": "11000",
+        "ElectionQuantity": "1500",
+        "ElectionPrice": "$100"
       },
       {
         "EventID": "EVT123459",
@@ -40,7 +52,11 @@
         "CAType": "Stock Split",
         "CADeadline": "2025-06-05T12:00:00Z",
         "Date1": "2025-06-04",
-        "Date2": "2025-06-07"
+        "Date2": "2025-06-07",
+        "PositionSize": "87000",
+        "EntitledPosition": "23000",
+        "ElectionQuantity": "11000",
+        "ElectionPrice": "$145"
       },
       {
         "EventID": "EVT123460",
@@ -49,7 +65,11 @@
         "CAType": "Tender Offer",
         "CADeadline": "2025-06-10T16:00:00Z",
         "Date1": "2025-06-08",
-        "Date2": "2025-06-12"
+        "Date2": "2025-06-12",
+        "PositionSize": "12000",
+        "EntitledPosition": "1000",
+        "ElectionQuantity": "900",
+        "ElectionPrice": "$90"
       },
       {
         "EventID": "EVT123461",
@@ -58,7 +78,11 @@
         "CAType": "Bonus Issue",
         "CADeadline": "2025-06-15T11:00:00Z",
         "Date1": "2025-06-13",
-        "Date2": "2025-06-18"
+        "Date2": "2025-06-18",
+        "PositionSize": "50000",
+        "EntitledPosition": "20000",
+        "ElectionQuantity": "10000",
+        "ElectionPrice": "$180"
       },
       {
         "EventID": "EVT123462",
@@ -67,7 +91,11 @@
         "CAType": "Dividend",
         "CADeadline": "2025-06-20T17:00:00Z",
         "Date1": "2025-06-18",
-        "Date2": "2025-06-23"
+        "Date2": "2025-06-23",
+        "PositionSize": "5000",
+        "EntitledPosition": "2500",
+        "ElectionQuantity": "1500",
+        "ElectionPrice": "$100.5"
       },
       {
         "EventID": "EVT123463",
@@ -76,7 +104,11 @@
         "CAType": "Merger",
         "CADeadline": "2025-06-25T14:00:00Z",
         "Date1": "2025-06-24",
-        "Date2": "2025-06-28"
+        "Date2": "2025-06-28",
+        "PositionSize": "20000",
+        "EntitledPosition": "15000",
+        "ElectionQuantity": "15000",
+        "ElectionPrice": "$180"
       },
       {
         "EventID": "EVT123464",
@@ -85,7 +117,11 @@
         "CAType": "Rights Issue",
         "CADeadline": "2025-06-30T15:00:00Z",
         "Date1": "2025-06-28",
-        "Date2": "2025-07-02"
+        "Date2": "2025-07-02",
+        "PositionSize": "51000",
+        "EntitledPosition": "25000",
+        "ElectionQuantity": "14000",
+        "ElectionPrice": "$108.5"
       },
       {
         "EventID": "EVT123465",
@@ -94,7 +130,11 @@
         "CAType": "Dividend",
         "CADeadline": "2025-07-05T17:00:00Z",
         "Date1": "2025-07-03",
-        "Date2": "2025-07-08"
+        "Date2": "2025-07-08",
+        "PositionSize": "80000",
+        "EntitledPosition": "25000",
+        "ElectionQuantity": "15000",
+        "ElectionPrice": "$170.5"
       },
       {
         "EventID": "EVT123466",
@@ -103,7 +143,11 @@
         "CAType": "Tender Offer",
         "CADeadline": "2025-07-10T16:00:00Z",
         "Date1": "2025-07-08",
-        "Date2": "2025-07-12"
+        "Date2": "2025-07-12",
+        "PositionSize": "90000",
+        "EntitledPosition": "28000",
+        "ElectionQuantity": "25000",
+        "ElectionPrice": "$210"
 
       }
     ]

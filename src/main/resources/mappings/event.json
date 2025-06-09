@@ -12,7 +12,11 @@
       "CAType": "Dividend",
       "CADeadline": "2025-05-20T17:00:00Z",
       "Date1": "2025-05-18",
-      "Date2": "2025-05-22"
+      "Date2": "2025-05-22",
+      "PositionSize": "50000",
+      "EntitledPosition": "25000",
+      "ElectionQuantity": "15000",
+      "ElectionPrice": "$180.5"
     }
   }
 
