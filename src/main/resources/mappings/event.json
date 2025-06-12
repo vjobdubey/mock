@@ -5,6 +5,12 @@
   },
   "response": {
     "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET,POST,PUT,DELETE,OPTIONS",
+      "Access-Control-Allow-Headers": "*"
+    },
     "jsonBody": {
       "EventID": "EVT123456",
       "SEDOL": "B1YW440",
